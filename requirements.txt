@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+delta-rest-client
+requests
